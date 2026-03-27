@@ -89,9 +89,3 @@ I believe strong fundamentals create strong engineers.
 </p>
 
 ---
-
-## 🎯 Career Goal
-
-To join a professional development team as an intern, contribute to real-world projects, and grow into a strong software engineer.
-
----
