@@ -3,7 +3,7 @@
 # <p align="center">Hi, I'm Danylo 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=3DDCFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;C+%7C+C%2B%2B+%7C+C%23+%7C+React+Developer;Actively+Seeking+Internship" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=3DDCFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;C+%7C+C%2B%2B+%7C+C%23+%7C+.NET+%7C+React+Developer;Actively+Seeking+Internship" />
 </p>
 
 ---
