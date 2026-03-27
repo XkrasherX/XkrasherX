@@ -15,8 +15,6 @@
 <br>📈 Consistently improving through structured practice
 <br>🎯 Actively preparing for internship opportunities
 
-I believe strong fundamentals create strong engineers.
-
 ---
 
 ## 🏆 Problem Solving
