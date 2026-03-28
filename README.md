@@ -23,10 +23,6 @@
   <img src="https://leetcard.jacoblin.cool/Xkrash3rX?theme=dark&font=baloo&ext=contest" />
 </p>
 
-* ✅ 36 problems solved
-* 🟢 26 Easy
-* 🟡 10 Medium
-
 ---
 
 ## 🛠 Tech Stack
